@@ -39,21 +39,19 @@ There is a README.md file which summarizes the project goals, data tables and me
 
 **Key Insights**
 
-<img width="1031" alt="Screenshot 2025-02-14 at 12 48 23 PM" src="https://github.com/user-attachments/assets/33ae0e60-ac60-4266-9a8f-158706ab7f5c" />
+<img width="772" alt="Screenshot 2025-02-14 at 2 04 05 PM" src="https://github.com/user-attachments/assets/3be1466b-6620-4e99-b234-ae0c97d96276" />
 
-<img width="1028" alt="Screenshot 2025-02-14 at 12 49 34 PM" src="https://github.com/user-attachments/assets/3cffcc96-3837-4865-982e-5c64d19e0d62" />
+<img width="962" alt="Screenshot 2025-02-14 at 2 04 31 PM" src="https://github.com/user-attachments/assets/96c13b6c-8def-4860-bddf-d253e3a7820e" />
 
-<img width="1030" alt="Screenshot 2025-02-14 at 12 50 50 PM" src="https://github.com/user-attachments/assets/1544e2f1-414e-4d6b-9d3e-377a7e891510" />
+<img width="962" alt="Screenshot 2025-02-14 at 2 06 49 PM" src="https://github.com/user-attachments/assets/4a9d860c-2305-4641-bbb2-78a0ea4bb9cd" />
 
-<img width="1030" alt="Screenshot 2025-02-14 at 12 51 32 PM" src="https://github.com/user-attachments/assets/e706b212-73d0-4ea6-b0ec-6cc6423dbda2" />
+<img width="964" alt="Screenshot 2025-02-14 at 2 08 42 PM" src="https://github.com/user-attachments/assets/80f6e4f5-5772-49c1-bda5-16176be613ad" />
 
-<img width="1030" alt="Screenshot 2025-02-14 at 12 56 22 PM" src="https://github.com/user-attachments/assets/c5ec6852-1dde-40c8-b401-1bc428cc4347" />
+<img width="849" alt="Screenshot 2025-02-14 at 2 09 10 PM" src="https://github.com/user-attachments/assets/be5412a5-92ef-4314-a177-bfa44e928615" />
 
-<img width="1027" alt="Screenshot 2025-02-14 at 12 53 52 PM" src="https://github.com/user-attachments/assets/6210e566-e805-4c8e-a4c2-7fa196bab948" />
+<img width="961" alt="Screenshot 2025-02-14 at 2 09 47 PM" src="https://github.com/user-attachments/assets/3f9e0d8d-81a6-49ec-a4f0-e6939f4cb152" />
 
-<img width="1026" alt="Screenshot 2025-02-14 at 12 54 28 PM" src="https://github.com/user-attachments/assets/0f7fa7fd-c996-4a25-9162-d0217e772498" />
-
-
+<img width="963" alt="Screenshot 2025-02-14 at 2 10 22 PM" src="https://github.com/user-attachments/assets/c0938cdb-5700-4ba4-8dc3-d42875d5bf2b" />
 
 
 
