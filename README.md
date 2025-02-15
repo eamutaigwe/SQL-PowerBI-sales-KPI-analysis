@@ -1,4 +1,4 @@
-**PowerBI Sales Key Performance Index Performance (KPI) Analysis**
+**PowerBI Sales Key Performance Index (KPI) Analysis**
 
 **Background**
 
