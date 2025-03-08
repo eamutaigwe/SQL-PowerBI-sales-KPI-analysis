@@ -1,20 +1,20 @@
-**PowerBI Sales Key Performance Index (KPI) Analysis**
+# PowerBI Sales Key Performance Index (KPI) Analysis
 
-**Background**
+## Background
 
 E-commerce companies utilize insights from historical transactional data to make informed business decisions that drive sales, increase revenue, and grow their businesses overall.
 
-**Goal**
+## Goal
 
 To execute an end-to-end data analytics project using e-commerce/retail datasets, including an ETL (extract, transform and load) process followed by building data models and interactive dashboards to provide actionable insights into key indicators driving revenue, profit and overall business performance and growth, and generating a report for presentation.
 
-**Methodology**
+## Methodology
 
-**Data Source**
+### Data Source
 
 I extracted Customer, Sales, and Product datasets from a PostgreSQL database using SQL queries. 
 
-**Folders and Files in the Repository**
+### Folders and Files in the Repository
 
 There is a README.md file which summarizes the project goals, data tables and methodology, results, insights and recommendations.
 
@@ -29,7 +29,7 @@ There is a README.md file which summarizes the project goals, data tables and me
 
 3. The `merge_tables_for_PowerBI.sql` file contains the SQL queries I used to prepare the three tables for analysis with Power BI.
 
-**Data processing**
+### Data processing
 
 1. I uploaded the extracted data tables to Power BI and cleaned these up by changing data fields to the correct data types and ensuring there were no missing data.
 
@@ -37,7 +37,7 @@ There is a README.md file which summarizes the project goals, data tables and me
 
 3. Finally, I created appropriate charts and graphs representing KPIs and other relevant metrics and projected these using interactive dashboard solutions.
 
-**Key Insights**
+## Key Insights
 
 <img width="772" alt="Screenshot 2025-02-14 at 2 04 05 PM" src="https://github.com/user-attachments/assets/3be1466b-6620-4e99-b234-ae0c97d96276" />
 
@@ -55,9 +55,9 @@ There is a README.md file which summarizes the project goals, data tables and me
 
 
 
-**Recommendations**
+## Recommendations
 
-1. Strategically reducing expenses and costs will reduce the gap between revenue and profit
-2. Since office supplies generated the highest profit, investing in more office supplies across the four regions will increase gross profit
-3. As specific paper products were identified as the most profitable with a 50% profit margin, investing more capital in those products will generate even more profit for the company
+1. Strategically reducing expenses and costs will reduce the gap between revenue and profit.
+2. Since office supplies generated the highest profit, investing in more office supplies across the four regions will increase gross profit.
+3. As specific paper products were identified as the most profitable with a 50% profit margin, investing more capital in those products will generate even more profit for the company.
 4. The company should devise ways to increase sales and profit among middle-aged and younger customers, maybe by increasing incentives and systematically spending on advertisements that appeal to the target population.
