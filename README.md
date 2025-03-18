@@ -1,4 +1,4 @@
-# PowerBI Sales Key Performance Index (KPI) Analysis
+# Sales Key Performance Index (KPI) Analysis
 
 ## Background
 
